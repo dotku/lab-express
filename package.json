@@ -4,7 +4,8 @@
   "description": "## Reference",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "public-ip": "^4.0.2"
   },
   "devDependencies": {},
   "scripts": {
